@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\gataromi\source\repos\lab1\main.cpp(11,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\gataromi\source\repos\lab1\main.cpp(144,10): warning C4101: y: неиспользованная локальная переменная
+C:\Users\gataromi\source\repos\lab1\main.cpp(91,1): warning C4715: max3: значение возвращается не при всех путях выполнения
+  lab1.vcxproj -> C:\Users\gataromi\source\repos\lab1\x64\Debug\lab1.exe
